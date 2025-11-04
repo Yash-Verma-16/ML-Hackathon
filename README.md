@@ -44,7 +44,7 @@ Our solution consists of two mandated components:
 
 ## 📁 Files in this Repository
 
-- `f87d51a151f04ede9849b2c63ef3080a.md` — The complete Python notebook.
+- `ML_Hackathon_Collab_Run.ipynb` — The complete Python notebook.
 - `Analysis Report.pdf` — The detailed project report answering all hackathon questions.
 - `corpus.txt` — The **50,000-word** training dataset.
 - `test.txt` — The **2,000-word** test dataset.
