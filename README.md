@@ -68,7 +68,7 @@ Our solution consists of two mandated components:
    - Place all files (the notebook and the .txt datasets) in the same directory.
 
 3. **Run the Notebook**
-    - Open and run f87d51a151f04ede9849b2c63ef3080a.md from top to bottom.
+    - Open and run ML_Hackathon_Collab_Run.ipynb from top to bottom.
 
 4. **Evaluation Steps**
    - Cell 8 runs the full evaluation on test.txt.
